@@ -2,7 +2,7 @@
 
 [Recent publications (PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=Hariharan+IK&show_snippets=off&sort=pubdate)
 
-* [Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions. Everetts NJ*, Worley MI*, Yasutomi R, Yosef N, Hariharan IK. Elife. 2021](https://elifesciences.org/articles/61276)
+* [Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions. Everetts*, Worley*, Yasutomi, Yosef, and Hariharan. Elife. 2021](https://elifesciences.org/articles/61276)
 
 ### Membrane potential regulates Hedgehog signalling in the *Drosophila* wing imaginal disc.
 Emmons-Bell M, Hariharan IK.
