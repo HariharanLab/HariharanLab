@@ -15,7 +15,7 @@ Emmons-Bell and Hariharan. EMBO Rep. 2021 [![alt text](https://github.com/Hariha
 * **The Hippo pathway coactivator Yorkie can reprogram cell fates and create compartment-boundary-like interactions at clone margins.**
 Bairzin, Emmons-Bell, and Hariharan. Sci Adv. 2020 [![alt text](https://github.com/HariharanLab/in_progress/blob/master/icons8-link-24.png?raw=true)](https://advances.sciencemag.org/content/6/50/eabe8159)
 ---
-* **Damage-responsive, maturity-silenced enhancers regulate multiple genes that direct regeneration in *Drosophila*.**
+* **Damage-responsive, maturity-silenced enhancers regulate multiple genes that direct regeneration in *Drosophila*.**\
 Harris, Stinchfield, Nystrom, McKay, and Hariharan. Elife. 2020 [![alt text](https://github.com/HariharanLab/in_progress/blob/master/elife_icons8-link-24.png?raw=true)](https://elifesciences.org/articles/58305)
 ---
 
