@@ -2,7 +2,7 @@
 
 Recent publications: [(PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=Hariharan+IK&show_snippets=off&sort=pubdate)
 
-![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/scVI/AMP_sc.jpg?raw=true)
+![alt text](https://github.com/HariharanLab/in_progress/blob/master/Temporal_sc_atlas.png?raw=true)
 
 * **Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions.** \
  Everetts*, Worley*, Yasutomi, Yosef, and Hariharan. Elife. 2021 [link](https://elifesciences.org/articles/61276)
