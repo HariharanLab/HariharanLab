@@ -8,7 +8,7 @@
 * **Membrane potential regulates Hedgehog signalling in the *Drosophila* wing imaginal disc.**\
 Emmons-Bell and Hariharan. EMBO Rep. 2021 [link](https://www.embopress.org/doi/full/10.15252/embr.202051861)
 
-* **The Hippo pathway coactivator Yorkie can reprogram cell fates and create compartment-boundary-like interactions at clone margins.**\
+* **The Hippo pathway coactivator Yorkie can reprogram cell fates and create compartment-boundary-like interactions at clone margins.**
 Bairzin, Emmons-Bell, and Hariharan. Sci Adv. 2020 [link](https://advances.sciencemag.org/content/6/50/eabe8159)
 
 * **Damage-responsive, maturity-silenced enhancers regulate multiple genes that direct regeneration in *Drosophila*.**\
@@ -20,13 +20,13 @@ Setiawan, Pan, Woods, O'Connor, and Hariharan. Life Sci Alliance. 2018 [link](ht
 * **CtBP impedes JNK- and Upd/STAT-driven cell fate misspecifications in regenerating *Drosophila* imaginal discs.**\
 Worley, Alexander, and Hariharan. Elife. 2018 [link](https://elifesciences.org/articles/30391)
 
-* **Plexins function in epithelial repair in both *Drosophila* and zebrafish.**\
+* **Plexins function in epithelial repair in both *Drosophila* and zebrafish.**
 Yoo, Pascoe, Pereira, Kondo, Jacinto, Zhang, and Hariharan. Nat Commun. 2016 [link](https://www.nature.com/articles/ncomms12282)
 
-* **Persistence of RNAi-Mediated Knockdown in Drosophila Complicates Mosaic Analysis Yet Enables Highly Sensitive Lineage Tracing.**\
+* **Persistence of RNAi-Mediated Knockdown in Drosophila Complicates Mosaic Analysis Yet Enables Highly Sensitive Lineage Tracing.**
 Bosch JA, Sumabat TM, Hariharan IK. Genetics. 2016 [link](https://academic.oup.com/genetics/article/203/1/109/5930298)
 
-* **Localized epigenetic silencing of a damage-activated WNT enhancer limits regeneration in mature *Drosophila* imaginal discs.**\
+* **Localized epigenetic silencing of a damage-activated WNT enhancer limits regeneration in mature *Drosophila* imaginal discs.**
 Harris, Setiawan, Saul, and Hariharan. Elife. 2016 [link](https://elifesciences.org/articles/11588)
 
 * **CoinFLP: a system for efficient mosaic screening and for visualizing clonal boundaries in *Drosophila*.**
