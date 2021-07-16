@@ -19,4 +19,3 @@ Bairzin, Emmons-Bell, and Hariharan. Sci Adv. 2020 [![alt text](https://github.c
 Harris, Stinchfield, Nystrom, McKay, and Hariharan. Elife. 2020 [![alt text](https://github.com/HariharanLab/in_progress/blob/master/elife_icons8-link-24.png?raw=true)](https://elifesciences.org/articles/58305)
 ---
 
----
