@@ -1,4 +1,4 @@
-# [Hariharan Lab](https://mcb.berkeley.edu/labs/hariharan/), UC Berkeley
+# Hariharan Lab, UC Berkeley
 
 Recent publications: [(PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=Hariharan+IK&show_snippets=off&sort=pubdate)
 
