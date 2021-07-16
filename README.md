@@ -2,10 +2,10 @@
 
 Recent publications: [(PubMed)](https://pubmed.ncbi.nlm.nih.gov/?term=Hariharan+IK&show_snippets=off&sort=pubdate)
 
+![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/scVI/AMP_sc.jpg?raw=true)
+
 * **Single-cell transcriptomics of the *Drosophila* wing disc reveals instructive epithelium-to-myoblast interactions.** \
  Everetts*, Worley*, Yasutomi, Yosef, and Hariharan. Elife. 2021 [link](https://elifesciences.org/articles/61276)
-
-![alt text](https://github.com/HariharanLab/Everetts_Worley_Yasutomi/blob/master/DiscMap/discmap_image.jpg?raw=false)
 
 * **Membrane potential regulates Hedgehog signalling in the *Drosophila* wing imaginal disc.**\
 Emmons-Bell and Hariharan. EMBO Rep. 2021 [link](https://www.embopress.org/doi/full/10.15252/embr.202051861)
