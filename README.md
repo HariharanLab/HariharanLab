@@ -24,7 +24,7 @@ Worley, Alexander, and Hariharan. Elife. 2018 [link](https://elifesciences.org/a
 Yoo, Pascoe, Pereira, Kondo, Jacinto, Zhang, and Hariharan. Nat Commun. 2016 [link](https://www.nature.com/articles/ncomms12282)
 
 * **Persistence of RNAi-Mediated Knockdown in Drosophila Complicates Mosaic Analysis Yet Enables Highly Sensitive Lineage Tracing.**
-Bosch JA, Sumabat TM, Hariharan IK. Genetics. 2016 [link](https://academic.oup.com/genetics/article/203/1/109/5930298)
+Bosch, Sumabat, and Hariharan. Genetics. 2016 [link](https://academic.oup.com/genetics/article/203/1/109/5930298)
 
 * **Localized epigenetic silencing of a damage-activated WNT enhancer limits regeneration in mature *Drosophila* imaginal discs.**
 Harris, Setiawan, Saul, and Hariharan. Elife. 2016 [link](https://elifesciences.org/articles/11588)
